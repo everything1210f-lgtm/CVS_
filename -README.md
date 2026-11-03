@@ -1,1 +1,1 @@
-# CVS-med
+# CVS
